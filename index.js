@@ -6,4 +6,4 @@ const operations = {
     mod: (a, b) => a % b,
 };
 
-export default operations;
+module.exports = operations;
